@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fullscreen</name>
+   <tag></tag>
+   <elementGuidId>e15bae8c-5c1b-4219-99fa-2cfa5a050d50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vjs-fullscreen-control.vjs-control.vjs-button > span.vjs-icon-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(text(),'Fullscreen')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1ff7c965-6f6e-4842-a994-f352ec8d55e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c6115562-5306-40b3-a4d0-ff89e5a80e40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vjs-icon-placeholder</value>
+      <webElementGuid>64960c8f-7009-4c73-83ea-f10a5235a17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example-video&quot;)/div[@class=&quot;vjs-control-bar&quot;]/button[@class=&quot;vjs-fullscreen-control vjs-control vjs-button&quot;]/span[@class=&quot;vjs-icon-placeholder&quot;]</value>
+      <webElementGuid>47d8ba71-1360-4c6b-b946-9a691db6ed15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='example-video']/div[4]/button[4]/span</value>
+      <webElementGuid>30f83249-2569-46c0-bb1e-bc8e3bf69305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]/span</value>
+      <webElementGuid>bd71398a-3c71-4c78-9d96-3d29c48f1589</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

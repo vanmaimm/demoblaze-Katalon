@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Log in</name>
+   <name>a_About us</name>
    <tag></tag>
-   <elementGuidId>06be125c-e65d-431b-b142-f9b4987f0faf</elementGuidId>
+   <elementGuidId>d9d24ff0-85be-48ec-8fd8-efa011723b8e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[9]</value>
+         <value>//div[@id='navbarExample']/ul/li[3]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#logInModal > div.modal-dialog > div.modal-content > div.modal-footer > button.btn.btn-primary</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,111 +21,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>7bdf1255-eb04-478e-b22e-d1e9261800a1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e9aba7e5-80eb-404f-85be-c73924a81a95</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>logIn()</value>
-      <webElementGuid>db05eff1-c368-416a-b685-d8299cf576c8</webElementGuid>
+      <value>a</value>
+      <webElementGuid>bae1bcdd-32f6-419a-82c0-c9d58eea609b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>963d1593-8374-4f06-b41c-b075cdd6336f</webElementGuid>
+      <value>nav-link</value>
+      <webElementGuid>065d384a-4ecd-4b4c-b2f8-535c67dc7291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>6b6a3355-b3eb-4c66-bac8-9b38fd846202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#videoModal</value>
+      <webElementGuid>d02c33cc-a926-40e2-a029-0b7fd7089be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>8c66149c-b09d-47fd-8153-5dd9baed0a92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>8a51c048-306f-452e-b15c-76576b3bb522</webElementGuid>
+      <value>About us</value>
+      <webElementGuid>4159be77-0872-4b95-9373-cd5329cb1755</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;logInModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>990aec62-5677-4544-a66b-94e5d64e151d</webElementGuid>
+      <value>id(&quot;navbarExample&quot;)/ul[@class=&quot;navbar-nav ml-auto&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>a842a720-11ac-48ea-be62-3cd16c2475e5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[9]</value>
-      <webElementGuid>ec9996d1-5828-4b0d-b39b-17844bae76f3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='logInModal']/div/div/div[3]/button[2]</value>
-      <webElementGuid>e535bc6b-d214-493d-a56c-4fe19c85c38d</webElementGuid>
+      <value>//div[@id='navbarExample']/ul/li[3]/a</value>
+      <webElementGuid>436259d8-52b1-4ab1-81c0-01d348661515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'About us')]</value>
+      <webElementGuid>0dba0c0c-2337-44a1-a9b5-9fff90a8a9ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/following::button[1]</value>
-      <webElementGuid>6b5fa041-9552-4f93-97ac-ba553ce4006f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(current)'])[1]/following::a[2]</value>
+      <webElementGuid>6093d6ef-196b-47d7-a5b9-09cf6990e63e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password:'])[2]/following::button[2]</value>
-      <webElementGuid>fe8d9cbe-9475-4fd7-88f4-6acd9fae011e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/preceding::a[1]</value>
+      <webElementGuid>1dadfd86-156c-4a10-9a4b-e00a243c6295</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/preceding::button[1]</value>
-      <webElementGuid>4f745209-18f2-424f-8d3e-cc71628175b8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::a[6]</value>
+      <webElementGuid>31e7c022-fe3d-4d3e-b721-e99f60da7be3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Player is loading.'])[1]/preceding::button[2]</value>
-      <webElementGuid>0081c336-3888-4a14-a4bf-6d776d5cc65d</webElementGuid>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>5815e328-f1b3-4577-bbfc-3dce927c4f9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div/div[3]/button[2]</value>
-      <webElementGuid>feeb9cb8-6a90-4d2d-bfb1-52b329c9ce80</webElementGuid>
+      <value>//li[3]/a</value>
+      <webElementGuid>1c467cff-6530-4a78-a133-90b5bd66b7a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>933a93fc-3d48-45ca-bb9c-8abd42038e60</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'About us' or . = 'About us')]</value>
+      <webElementGuid>f02a1287-d202-4df9-a29f-9ae87c07c628</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

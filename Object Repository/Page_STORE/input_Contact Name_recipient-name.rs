@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username_loginusername</name>
+   <name>input_Contact Name_recipient-name</name>
    <tag></tag>
-   <elementGuidId>a4a892fb-977f-4b19-aebc-5ec65a387961</elementGuidId>
+   <elementGuidId>cd7baccc-6b05-4844-ae58-a4d6c304f086</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='loginusername']</value>
+         <value>//input[@id='recipient-name']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#loginusername</value>
+         <value>#recipient-name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>30984008-451e-4011-9494-38aef3e2c8bc</webElementGuid>
+      <webElementGuid>3d95e75c-94b4-4ac3-8bd3-9bb1a4c7c2cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>426fe487-5adb-4b02-9eda-738a5cff55c9</webElementGuid>
+      <webElementGuid>1b5ebd80-4121-46f4-a71a-a36a9e7ff8bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,54 +38,54 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>99437e7b-d7f2-4bcd-bc46-87e11b55effe</webElementGuid>
+      <webElementGuid>a9605955-38dc-448f-8247-8abe95f74b05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>loginusername</value>
-      <webElementGuid>f9952b93-5a4b-43a9-95f1-43fc5433a16d</webElementGuid>
+      <value>recipient-name</value>
+      <webElementGuid>c4d3fb7f-ec88-4b03-8074-fa64f39182e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginusername&quot;)</value>
-      <webElementGuid>e2ea0d1f-ad07-4bfb-b2a5-7b0aa45b986c</webElementGuid>
+      <value>id(&quot;recipient-name&quot;)</value>
+      <webElementGuid>216ace52-1e28-47ed-a34e-b74d80e1dd12</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='loginusername']</value>
-      <webElementGuid>65e035ca-ddad-47a9-8126-2ef548c0f93e</webElementGuid>
+      <value>//input[@id='recipient-name']</value>
+      <webElementGuid>cf139701-6fd3-4665-b6b6-1a4d66714667</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='logInModal']/div/div/div[2]/form/div/input</value>
-      <webElementGuid>6e827b6d-3499-49a2-a200-6390bb83d748</webElementGuid>
+      <value>//div[@id='exampleModal']/div/div/div[2]/form/div[2]/input</value>
+      <webElementGuid>99d03976-b2c1-454c-bf95-36cda85388aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div/div[2]/form/div/input</value>
-      <webElementGuid>cc8d7ec8-d5ac-4982-a1af-ff6de0510134</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>58fe420f-2dc7-4140-829b-178f3406433e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'loginusername']</value>
-      <webElementGuid>098eded4-4426-4a6f-af7c-6cd90ab8235f</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'recipient-name']</value>
+      <webElementGuid>0edb73ec-5fc8-4581-9778-71c4850403ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
