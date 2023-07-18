@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "1C04AD41498F0CD175F62564EE67C649",
+  "keywordClasses": [
+    {
+      "name": "login.Login",
+      "keywordMethods": [
+        {
+          "name": "loginIntoApplication",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginIntoApplicationWithGlobalVariable",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

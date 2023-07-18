@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC05_Logout,Chrome 114.0.0.0,,,2023-07-17 19:09:27,2023-07-17 19:09:43,16.170s,PASSED
+,,,,,,,
+Test Cases/Navigation Bar/Logout,Chrome 114.0.0.0,,,2023-07-17 19:09:27,2023-07-17 19:09:43,15.746s,PASSED
+login.Login.loginIntoApplicationWithGlobalVariable(),Chrome 114.0.0.0,,,2023-07-17 19:09:28,2023-07-17 19:09:39,11.182s,PASSED
+"click(findTestObject(""Page_STORE/a_Logout""))",Chrome 114.0.0.0,,,2023-07-17 19:09:39,2023-07-17 19:09:42,2.905s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-17 19:09:42,2023-07-17 19:09:43,1.270s,PASSED
