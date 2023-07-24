@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC01_Login successfully,Chrome 114.0.0.0,,,2023-07-20 00:11:15,2023-07-20 00:11:36,21.006s,PASSED
+,,,,,,,
+Test Cases/Navigation Bar/Login/Login With Valid Account,Chrome 114.0.0.0,,,2023-07-20 00:11:15,2023-07-20 00:11:36,20.613s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-20 00:11:16,2023-07-20 00:11:26,10.633s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-20 00:11:26,2023-07-20 00:11:27,0.228s,PASSED
+navigateToUrl(G_URL),Chrome 114.0.0.0,,,2023-07-20 00:11:27,2023-07-20 00:11:30,3.208s,PASSED
+"click(findTestObject(""Object Repository/Page_STORE/a_Log in""))",Chrome 114.0.0.0,,,2023-07-20 00:11:30,2023-07-20 00:11:32,2.504s,PASSED
+"setText(findTestObject(""Object Repository/Page_STORE/input_Username_loginusername""), ""testwithkatalon"")",Chrome 114.0.0.0,,,2023-07-20 00:11:32,2023-07-20 00:11:34,1.335s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_STORE/input_Password_loginpassword""), ""P9ET2sDE0SE="")",Chrome 114.0.0.0,,,2023-07-20 00:11:34,2023-07-20 00:11:34,0.518s,PASSED
+"click(findTestObject(""Object Repository/Page_STORE/button_Log in""))",Chrome 114.0.0.0,,,2023-07-20 00:11:34,2023-07-20 00:11:35,0.428s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-20 00:11:35,2023-07-20 00:11:36,1.260s,PASSED

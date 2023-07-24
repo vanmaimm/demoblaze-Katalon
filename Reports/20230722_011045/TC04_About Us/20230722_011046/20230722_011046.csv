@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC04_About Us,Chrome 114.0.0.0,,,2023-07-22 01:10:56,2023-07-22 01:11:13,16.375s,FAILED
+,,,,,,,
+Test Cases/Navigation Bar/About us,Chrome 114.0.0.0,,,2023-07-22 01:10:56,2023-07-22 01:11:13,16.051s,FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-22 01:10:57,2023-07-22 01:11:03,5.902s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-22 01:11:03,2023-07-22 01:11:04,0.496s,PASSED
+navigateToUrl(G_URL),Chrome 114.0.0.0,,,2023-07-22 01:11:04,2023-07-22 01:11:05,1.416s,PASSED
+"click(findTestObject(""Object Repository/Page_STORE/a_About us""))",Chrome 114.0.0.0,,,2023-07-22 01:11:05,2023-07-22 01:11:06,1.320s,PASSED
+"click(findTestObject(""Object Repository/Page_STORE/span_Video Player""))",Chrome 114.0.0.0,,,2023-07-22 01:11:06,2023-07-22 01:11:13,6.283s,FAILED

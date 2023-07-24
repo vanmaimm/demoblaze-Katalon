@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC06_Add to Cart,Chrome 114.0.0.0,,,2023-07-23 23:48:36,2023-07-23 23:49:06,30.049s,PASSED
+,,,,,,,
+Test Cases/Shopping/Add to Cart,Chrome 114.0.0.0,,,2023-07-23 23:48:36,2023-07-23 23:49:06,29.706s,PASSED
+login.Login.loginIntoApplicationWithGlobalVariable(),Chrome 114.0.0.0,,,2023-07-23 23:48:37,2023-07-23 23:48:56,19.346s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Samsung galaxy s6""))",Chrome 114.0.0.0,,,2023-07-23 23:48:56,2023-07-23 23:49:02,5.480s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Add to cart""))",Chrome 114.0.0.0,,,2023-07-23 23:49:02,2023-07-23 23:49:03,1.446s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Cart""))",Chrome 114.0.0.0,,,2023-07-23 23:49:03,2023-07-23 23:49:05,1.375s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-23 23:49:05,2023-07-23 23:49:06,1.297s,PASSED

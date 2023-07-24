@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC03_Send contact,Chrome 114.0.0.0,,,2023-07-20 00:39:16,2023-07-20 00:39:38,22.696s,PASSED
+,,,,,,,
+Test Cases/Navigation Bar/Contact,Chrome 114.0.0.0,,,2023-07-20 00:39:16,2023-07-20 00:39:38,22.060s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-20 00:39:17,2023-07-20 00:39:25,7.577s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-20 00:39:25,2023-07-20 00:39:25,0.496s,PASSED
+navigateToUrl(G_URL),Chrome 114.0.0.0,,,2023-07-20 00:39:25,2023-07-20 00:39:32,6.141s,PASSED
+"click(findTestObject(""Object Repository/Page_STORE/a_Contact""))",Chrome 114.0.0.0,,,2023-07-20 00:39:32,2023-07-20 00:39:34,2.435s,PASSED
+"setText(findTestObject(""Object Repository/Page_STORE/input_Contact Email_recipient-email""), ""miancloud@gmail.com"")",Chrome 114.0.0.0,,,2023-07-20 00:39:34,2023-07-20 00:39:35,1.147s,PASSED
+"setText(findTestObject(""Object Repository/Page_STORE/input_Contact Name_recipient-name""), ""Mian"")",Chrome 114.0.0.0,,,2023-07-20 00:39:35,2023-07-20 00:39:36,0.651s,PASSED
+"setText(findTestObject(""Object Repository/Page_STORE/textarea_Message_message-text""), ""test"")",Chrome 114.0.0.0,,,2023-07-20 00:39:36,2023-07-20 00:39:37,0.720s,PASSED
+"click(findTestObject(""Object Repository/Page_STORE/button_Send message""))",Chrome 114.0.0.0,,,2023-07-20 00:39:37,2023-07-20 00:39:37,0.585s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-20 00:39:37,2023-07-20 00:39:38,1.311s,PASSED

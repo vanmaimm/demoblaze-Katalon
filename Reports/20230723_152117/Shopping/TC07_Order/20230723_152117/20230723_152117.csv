@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC07_Order,Chrome 114.0.0.0,,,2023-07-23 15:21:26,2023-07-23 15:21:51,24.542s,PASSED
+,,,,,,,
+Test Cases/Shopping/Order,Chrome 114.0.0.0,,,2023-07-23 15:21:27,2023-07-23 15:21:51,24.166s,PASSED
+login.Login.loginIntoApplicationWithGlobalVariable(),Chrome 114.0.0.0,,,2023-07-23 15:21:27,2023-07-23 15:21:38,10.779s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Samsung galaxy s6""))",Chrome 114.0.0.0,,,2023-07-23 15:21:38,2023-07-23 15:21:41,2.456s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Add to cart""))",Chrome 114.0.0.0,,,2023-07-23 15:21:41,2023-07-23 15:21:42,1.009s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Cart""))",Chrome 114.0.0.0,,,2023-07-23 15:21:42,2023-07-23 15:21:43,1.569s,PASSED
+"click(findTestObject(""Shopping/Page_STORE/button_order""))",Chrome 114.0.0.0,,,2023-07-23 15:21:43,2023-07-23 15:21:45,1.469s,PASSED
+"setText(findTestObject(""Shopping/Page_STORE/input_name""), ""abc"")",Chrome 114.0.0.0,,,2023-07-23 15:21:45,2023-07-23 15:21:46,1.269s,PASSED
+"setText(findTestObject(""Shopping/Page_STORE/input_city""), ""SG"")",Chrome 114.0.0.0,,,2023-07-23 15:21:46,2023-07-23 15:21:47,0.724s,PASSED
+"setText(findTestObject(""Shopping/Page_STORE/input_country""), ""VN"")",Chrome 114.0.0.0,,,2023-07-23 15:21:47,2023-07-23 15:21:47,0.686s,PASSED
+"setText(findTestObject(""Shopping/Page_STORE/input_month""), ""12"")",Chrome 114.0.0.0,,,2023-07-23 15:21:47,2023-07-23 15:21:48,0.675s,PASSED
+"setText(findTestObject(""Shopping/Page_STORE/input_card""), ""1234567890"")",Chrome 114.0.0.0,,,2023-07-23 15:21:48,2023-07-23 15:21:49,0.664s,PASSED
+"setText(findTestObject(""Shopping/Page_STORE/input_year""), ""2023"")",Chrome 114.0.0.0,,,2023-07-23 15:21:49,2023-07-23 15:21:49,0.633s,PASSED
+"click(findTestObject(""Shopping/Page_STORE/button_purchase""))",Chrome 114.0.0.0,,,2023-07-23 15:21:49,2023-07-23 15:21:50,0.390s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-23 15:21:50,2023-07-23 15:21:51,1.296s,PASSED

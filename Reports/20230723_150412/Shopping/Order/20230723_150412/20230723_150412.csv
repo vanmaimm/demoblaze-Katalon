@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Order,Chrome 114.0.0.0,,,2023-07-23 15:04:23,2023-07-23 15:04:45,21.831s,PASSED
+,,,,,,,
+Test Cases/Shopping/Order,Chrome 114.0.0.0,,,2023-07-23 15:04:23,2023-07-23 15:04:45,21.452s,PASSED
+login.Login.loginIntoApplicationWithGlobalVariable(),Chrome 114.0.0.0,,,2023-07-23 15:04:24,2023-07-23 15:04:37,13.300s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Samsung galaxy s6""))",Chrome 114.0.0.0,,,2023-07-23 15:04:37,2023-07-23 15:04:40,2.375s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Add to cart""))",Chrome 114.0.0.0,,,2023-07-23 15:04:40,2023-07-23 15:04:41,1.021s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Cart""))",Chrome 114.0.0.0,,,2023-07-23 15:04:41,2023-07-23 15:04:42,1.438s,PASSED
+"click(findTestObject(""Shopping/Page_STORE/button_order""))",Chrome 114.0.0.0,,,2023-07-23 15:04:42,2023-07-23 15:04:43,1.482s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-23 15:04:43,2023-07-23 15:04:45,1.281s,PASSED

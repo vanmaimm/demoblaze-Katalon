@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC07_Order,Chrome 114.0.0.0,,,2023-07-23 15:16:40,2023-07-23 15:17:16,35.832s,PASSED
+,,,,,,,
+Test Cases/Shopping/Order,Chrome 114.0.0.0,,,2023-07-23 15:16:41,2023-07-23 15:17:16,35.326s,PASSED
+login.Login.loginIntoApplicationWithGlobalVariable(),Chrome 114.0.0.0,,,2023-07-23 15:16:41,2023-07-23 15:17:03,21.391s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Samsung galaxy s6""))",Chrome 114.0.0.0,,,2023-07-23 15:17:03,2023-07-23 15:17:08,5.530s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Add to cart""))",Chrome 114.0.0.0,,,2023-07-23 15:17:08,2023-07-23 15:17:11,2.407s,PASSED
+"click(findTestObject(""Object Repository/Shopping/Page_STORE/a_Cart""))",Chrome 114.0.0.0,,,2023-07-23 15:17:11,2023-07-23 15:17:13,1.906s,PASSED
+"click(findTestObject(""Shopping/Page_STORE/button_order""))",Chrome 114.0.0.0,,,2023-07-23 15:17:13,2023-07-23 15:17:14,1.314s,PASSED
+"setText(findTestObject(""Shopping/Page_STORE/input_name""), ""abc"")",Chrome 114.0.0.0,,,2023-07-23 15:17:14,2023-07-23 15:17:15,1.056s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-23 15:17:15,2023-07-23 15:17:16,1.279s,PASSED
